@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+
+body {
+    background-color: rgb(209, 114, 201);
+}
+
+*{
+color: rgb(255, 255, 255);
+text-decoration: none;
+  text-shadow: 0 0 5px #771b51, 0 0 5px #8f1a8f;
+
+  font-weight: 600;
+
+}
