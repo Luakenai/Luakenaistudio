@@ -32,3 +32,16 @@ background-color:white;
 color:  rgb(117, 99, 116);
 
 }
+
+.main{
+  align-items: center;
+    display: flex
+;
+    flex-grow: 0;
+    flex-shrink: 0;
+    justify-content: center;
+    max-width: 100%;
+    position: relative;
+    text-align: center;
+    z-index: 1;
+}
