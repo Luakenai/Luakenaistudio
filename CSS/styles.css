@@ -50,3 +50,11 @@ color:  rgb(117, 99, 116);
     text-align: center;
     z-index: 1;
 }
+
+.bx{
+  text-shadow: 0 0 5px #771b51, 0 0 5px #8f1a8f;
+  font-weight: 600;
+  margin: 0 auto;
+  color: white;
+  width: 300px;
+}
