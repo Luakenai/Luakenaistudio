@@ -53,11 +53,19 @@ color:  rgb(117, 99, 116);
 
 .bx{
   text-shadow: 0 0 5px #771b51, 0 0 5px #8f1a8f;
-  font-weight: 600;
   margin: 0 auto;
   color: white;
-  font-size: 100px;
-  display: flex;
+  font-size: 50px;
   gap: 10px;
 
+  align-items: center;
+    display: flex;
+    flex-grow: 0;
+    flex-shrink: 0;
+    justify-content: center;
+    max-width: 100%;
+    position: relative;
+    text-align: center;
+    z-index: 1;
 }
+
