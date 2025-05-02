@@ -9,12 +9,17 @@ body {
 *{
 color: rgb(255, 255, 255);
 text-decoration: none;
-  text-shadow: 0 0 5px #771b51, 0 0 5px #8f1a8f;
-  font-weight: 600;
-  margin: 0 auto;
+ 
 
 }
 
+
+p{
+  text-shadow: 0 0 5px #771b51, 0 0 5px #8f1a8f;
+  font-weight: 600;
+  margin: 0 auto;
+  color: white;
+}
 
 .logo{
 
@@ -35,8 +40,8 @@ color:  rgb(117, 99, 116);
 
 .main{
   align-items: center;
-    display: flex
-;
+    display: flex;
+    flex-direction: column;
     flex-grow: 0;
     flex-shrink: 0;
     justify-content: center;
